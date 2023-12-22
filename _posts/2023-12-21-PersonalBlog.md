@@ -7,7 +7,7 @@ type: plans
 courses: {'compsci': {'week': 5}}
 ---
 
-# Learning from Team Teach Topics
+# Learnings from Team Teach Topics
 
 ## Understanding Internet Routing:
 
@@ -64,7 +64,9 @@ Safe computing practices, encompassing cybersecurity awareness and responsible o
 
 Key Takeaway: Education and awareness are key components in creating a digital space where users feel confident, secure, and in control of their online experiences.
 
-# Takeaways from CPT Project
+# Journey
+
+## Takeaways from CPT Project
 
 - Conduct a detailed analysis of project requirements and needs before starting the development process.
 
@@ -90,7 +92,7 @@ Key Takeaway: Education and awareness are key components in creating a digital s
 
 - Work on presentation of project referring to standards set by College Board (no mouse scrolling)
 
-# Test Corrections 
+# Test Corrections/Discovery
 
 -------------------------------------------------------------------------------------------------
 ## Question 7
