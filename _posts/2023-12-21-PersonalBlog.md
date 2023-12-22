@@ -118,7 +118,7 @@ Answer/Explanation: Rereading problem and answer, it is clear I choice the wrong
 -------------------------------------------------------------------------------------------------
 ## Question 37
 
-![Question 37](https://cdn.discordapp.com/attachments/741078771754336347/1187656807297064991/q37.png?ex=6597ae98&is=65853998&hm=3a70f27cc7f63acaeb136024d173420f73e78d11bea12622402948f15cf02c0e&)
+![Question 37](https://files.catbox.moe/177zj8.png)
 
 Answer/Explanation: The order of the parameters matter in the code, my answer choice skips the first iteration, the line between the points 
 (2,6) and (8,8).
