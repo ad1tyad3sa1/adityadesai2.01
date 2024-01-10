@@ -1,10 +1,11 @@
 ---
-comments: True
-layout: post
+toc: true
+comments: false
+layout: base
 title: Personal Blog
-description: Journey, learnings, discovery so far in Trimester 2
+description: College Board Corrections and Self Reflection
 type: plans
-courses: {'compsci': {'week': 5}}
+courses: { compsci: {week: 5} }
 ---
 
 # Learnings from Team Teach Topics
