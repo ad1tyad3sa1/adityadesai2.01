@@ -4,7 +4,7 @@ comments: false
 layout: base
 title: Undecided Problems 
 description: Blog/Hacks
-type: plans
+type: hacks
 courses: { compsci: {week: 4} }
 ---
 

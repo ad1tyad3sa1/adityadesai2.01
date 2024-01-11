@@ -4,7 +4,7 @@ comments: false
 layout: base
 title: Internet
 description: Blog/Hacks
-type: plans
+type: hacks
 courses: { compsci: {week: 2} }
 ---
 

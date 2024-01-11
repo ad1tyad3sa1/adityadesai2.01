@@ -5,7 +5,7 @@ layout: post
 title: Computing Bias Lesson
 description: Computing Bias Lesson
 courses: {'compsci': {'week': 4}}
-type: plans
+type: tangibles
 ---
 
 ## Computing Bias - Hanlun

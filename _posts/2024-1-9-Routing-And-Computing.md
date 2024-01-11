@@ -4,7 +4,7 @@ comments: false
 layout: base
 title: Routing/Computing
 description: Blog/Hacks
-type: plans
+type: hacks
 courses: { compsci: {week: 2} }
 ---
 

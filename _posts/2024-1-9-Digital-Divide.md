@@ -4,7 +4,7 @@ comments: false
 layout: base
 title: Digital Divide 
 description: Blog/Hacks
-type: plans
+type: hacks
 courses: { compsci: {week: 3} }
 ---
 

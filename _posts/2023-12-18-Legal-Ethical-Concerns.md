@@ -4,7 +4,7 @@ comments: false
 layout: base
 title: Legal and Ethcial  
 description: Blog/Hacks
-type: plans
+type: hacks
 courses: { compsci: {week: 5} }
 ---
 
