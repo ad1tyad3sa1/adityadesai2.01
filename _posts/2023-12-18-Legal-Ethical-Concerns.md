@@ -5,7 +5,7 @@ layout: base
 title: Legal and Ethcial  
 description: Blog/Hacks
 type: plans
-courses: { compsci: {week: 1} }
+courses: { compsci: {week: 5} }
 ---
 
 # Team Teach Summary: Intellectual Property, Copyright, Open Source, and Legal/Ethical Concerns
