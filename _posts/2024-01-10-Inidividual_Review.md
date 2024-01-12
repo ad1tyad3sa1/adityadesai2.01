@@ -4,7 +4,7 @@ comments: false
 layout: base
 title: Individual Review
 description: Key Assets and Projects
-type: hacks
+type: tangibles 
 courses: { compsci: {week: 5} }
 ---
 
