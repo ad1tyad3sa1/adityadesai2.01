@@ -16,4 +16,9 @@ courses: { compsci: {week: 5} }
 
 - I plan to implement my understanding of binary, crowdsourcing, and other applicable topics into my CPT project so it appeals to CSP teachers.
 
-- Building on my Javascript and Python skill while working on the project, creating more clear and concise code that others can understand easily. 
+- Building on my Javascript and Python skills while working on the project, creating more clear and concise code that others can understand easily. 
+
+Commits:
+
+
+
