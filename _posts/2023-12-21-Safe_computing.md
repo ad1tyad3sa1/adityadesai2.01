@@ -5,7 +5,7 @@ layout: base
 title: Safe Computing
 description: Blog/Hacks
 type: hacks
-courses: { compsci: {week: 5} }
+courses: { csp: {week: 5} }
 ---
 
 # Safe Computing 

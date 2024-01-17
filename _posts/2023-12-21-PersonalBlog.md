@@ -5,7 +5,7 @@ layout: base
 title: Personal Blog
 description: College Board Corrections and Self Reflection
 type: plans
-courses: { compsci: {week: 5} }
+courses: { csp: {week: 5} }
 ---
 
 # Learnings from Team Teach Topics

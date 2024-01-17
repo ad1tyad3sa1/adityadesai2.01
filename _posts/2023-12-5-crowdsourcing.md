@@ -5,7 +5,7 @@ layout: base
 title: Crowdsourcing
 description: Blog/Hacks
 type: hacks
-courses: { compsci: {week: 3} }
+courses: { csp: {week: 3} }
 ---
 
 # Crowdsourcing

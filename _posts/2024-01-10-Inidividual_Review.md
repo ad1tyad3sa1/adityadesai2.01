@@ -5,7 +5,7 @@ layout: base
 title: Individual Review
 description: Key Assets and Projects
 type: tangibles 
-courses: { compsci: {week: 5} }
+courses: { csp: {week: 5} }
 ---
 
 ## Looks for the Future:

@@ -5,7 +5,7 @@ layout: base
 title: Routing/Computing
 description: Blog/Hacks
 type: hacks
-courses: { compsci: {week: 2} }
+courses: { csp: {week: 2} }
 ---
 
 # Networking

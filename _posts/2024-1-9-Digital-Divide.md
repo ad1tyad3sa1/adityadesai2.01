@@ -5,7 +5,7 @@ layout: base
 title: Digital Divide 
 description: Blog/Hacks
 type: hacks
-courses: { compsci: {week: 3} }
+courses: { csp: {week: 3} }
 ---
 
 ## Digital Divide

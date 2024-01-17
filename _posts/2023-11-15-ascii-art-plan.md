@@ -5,7 +5,7 @@ layout: base
 title: Ascii Art Blog
 description: Ascii Art Binary Program Code and Updates
 type: plans 
-courses: { compsci: {week: 1} }
+courses: { csp: {week: 1} }
 ---
 
 # Initial Code for my Feature

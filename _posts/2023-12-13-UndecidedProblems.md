@@ -5,7 +5,7 @@ layout: base
 title: Undecided Problems 
 description: Blog/Hacks
 type: hacks
-courses: { compsci: {week: 4} }
+courses: { csp: {week: 4} }
 ---
 
 # Undecidable Problems and Popcorn Hack Summaries
