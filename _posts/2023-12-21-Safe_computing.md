@@ -1,7 +1,7 @@
 ---
 toc: true
 comments: false
-layout: base
+layout: post
 title: Safe Computing
 description: Blog/Hacks
 type: hacks

@@ -1,7 +1,7 @@
 ---
 toc: true
 comments: false
-layout: base
+layout: post
 title: Digital Divide 
 description: Blog/Hacks
 type: hacks

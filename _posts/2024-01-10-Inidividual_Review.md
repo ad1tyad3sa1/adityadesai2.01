@@ -1,7 +1,7 @@
 ---
 toc: true
 comments: false
-layout: base
+layout: post
 title: Individual Review
 description: Key Assets and Projects
 type: tangibles 

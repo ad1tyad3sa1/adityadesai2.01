@@ -1,7 +1,7 @@
 ---
 toc: true
 comments: false
-layout: base
+layout: post
 title: Undecided Problems 
 description: Blog/Hacks
 type: hacks

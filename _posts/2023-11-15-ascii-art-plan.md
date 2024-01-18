@@ -1,7 +1,7 @@
 ---
 toc: true
 comments: false
-layout: base
+layout: post
 title: Ascii Art Blog
 description: Ascii Art Binary Program Code and Updates
 type: plans 

@@ -1,7 +1,7 @@
 ---
 toc: true
 comments: false
-layout: base
+layout: post
 title: Personal Blog
 description: College Board Corrections and Self Reflection
 type: plans

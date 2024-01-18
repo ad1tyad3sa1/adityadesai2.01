@@ -1,7 +1,7 @@
 ---
 toc: False
 comments: True
-layout: notebook
+layout: post
 title: IPYNB Table, Code
 description: Team teach on routing and computing
 courses: {'csp': {'week': 1}}
